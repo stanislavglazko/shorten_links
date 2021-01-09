@@ -13,7 +13,7 @@ To use the service you should:
     ```
     pip install -r requirements.txt
     ```
-3) add .env file with your `BITLY_TOKEN`:
+3) add .env file in the directory of the service with your `BITLY_TOKEN`:
     ```
     BITLY_TOKEN=<your_bitly_token>
     ```
